@@ -17,11 +17,6 @@ __pycache__/
 .ipynb_checkpoints/
 *-checkpoint.ipynb
 
-# Generated artifacts (produced when running the notebook)
-Project/top_products.csv
-Project/top_products.parquet
-Project/user_inputs.txt
-
 # Hugging Face / datasets cache
 .cache/
 
