@@ -1,0 +1,11 @@
+Transformational AI: Analyzing Ecommerce Large Datasets for Machine Learning
+Completed by: David Mesa
+—————————————-
+
+Question 1: We are looking at user reviews of our products. Each review includes a rating, title, text, images, and whether it is a verified purchase. Additionally, there is metadata such as the ASIN, user ID, and timestamp. It also shows how the review has impacted others through the 'helpful' vote count.
+Question 2: To me, the head command sounds like it's just going to print the first part of the table. I was assuming it would print the headers, but it is nice to see the first 5 rows as well. The only thing is that it is printing in 5 different blocks.
+Question 3: It's much cleaner! We applied a larger display width, so we can scroll horizontally. And we set a max width per column, so we can make sure everything has its space.
+Question 4: We are working with two different types of data: one focuses on the reviews, while the other is about the product itself. The product data includes its category, basic information, average rating, and more.
+Question 5: The info() method is the most comprehensive. The first method just returns the column names, and the second shows the names along with their data types. However, the last one provides much more insightful information about the DataFrame as a whole.
+Question 6: Most of the top-rated items fall into two distinct price groups: low and high. There seems to be no middle ground for products in these categories.
+Question 7: Most top-rated items are priced either below 200 or over 800. This suggests that price plays a major role in how users rate products. Furthermore, more expensive items might achieve very high ratings due to their higher quality.
